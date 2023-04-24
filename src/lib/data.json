@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mozilla Firefox",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/1024px-Firefox_logo%2C_2019.svg.png",
+    "desc": "Mozilla Firefox, or simply Firefox, is a free and open-source[11] web browser developed by the Mozilla Foundation and its subsidiary, the Mozilla Corporation."
+  },
+  {
+    "name": "Microsoft Edge",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Microsoft_Edge_logo_%282019%29.svg/1024px-Microsoft_Edge_logo_%282019%29.svg.png",
+    "desc": "Microsoft Edge is a proprietary, cross-platform web browser created by Microsoft."
+  },
+  {
+    "name": "Google Chrome",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Google_Chrome_icon_%28February_2022%29.svg/1024px-Google_Chrome_icon_%28February_2022%29.svg.png",
+    "desc": "Google Chrome is a cross-platform web browser developed by Google."
+  }
+]
